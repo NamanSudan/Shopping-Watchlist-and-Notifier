@@ -1,0 +1,9 @@
+Ever wanted to buy something which is not neccessary but if its on sale then you will definitely.
+
+We have a solution for you!
+
+This program is like your wishlist which also tracks price and availaibility of product
+
+Sends desktop notification if price is changed or you can mail yourself too by providing
+certain things check out the code for that!
+
